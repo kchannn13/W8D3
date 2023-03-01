@@ -33,3 +33,24 @@
     left: 0px;
     top: 40px;
 }
+
+.profile-nav {
+    display: block;
+    position: relative;
+    bottom: 50px;
+}
+
+.profile-nav li {
+    border-top: solid lightgray;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.profile-nav:last-child {
+    border-bottom: solid lightgray;
+}
+
+.profile-nav li:hover {
+    background-color: rgb(226, 226, 226);
+}
