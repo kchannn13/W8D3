@@ -1,1 +1,11 @@
 /* PHASE 0: Sidebar */
+/* .content-header::before {
+    content: attr(href="(./images/cat.jpg)");
+} */
+
+.profile-picture {
+    display: block;
+    margin-top: -1;
+    position: relative;
+    bottom: 120px;
+}
