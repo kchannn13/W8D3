@@ -1,2 +1,21 @@
 /* PHASE 2: Thumbs */
 
+/* .thumb-list a li:nth-child(-n + 3) {
+    display: flex;
+    /* position: absolute; */
+    /* width: 100px;
+    height: 100px; */
+/* } */
+
+.thumb-list {
+    display: flex;
+    width: auto;
+    height: auto;
+    align-content: flex-start;
+}
+
+.thumb{
+    display: block;
+    margin: 5px;
+
+}
