@@ -9,3 +9,27 @@
     position: relative;
     bottom: 120px;
 }
+
+.profile-info {
+    display: block;
+    position: relative;
+    bottom: 120px;
+}
+
+.profile-info > h2 {
+    font-size: 24px;
+    font-weight: bold;
+    display: block;
+    position: relative;
+    left: 0px;
+    top: 20px;
+    bottom: 20px;
+}
+
+.profile-info > p {
+    font-size: 16px;
+    display: block;
+    position: relative;
+    left: 0px;
+    top: 40px;
+}
